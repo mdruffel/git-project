@@ -13,3 +13,5 @@ While there are many different ways to learn at the college level, the primary m
 - blah blah blah    
 - blah blah blah  
 ## Course Assignments:  
+- Blah blah blah  
+- blah blah blah
